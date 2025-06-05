@@ -30,9 +30,9 @@ Wisconsin Diagnostic Breast Cancer dataset
 Available from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
 
 ## 🚀 How to Run
-1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/cancer-prediction-model.git`
+1. Clone the repo: `git clone https://github.com/oliviaboe3/cancer-prediction-model.git`
 2. Install dependencies (e.g., `pandas`, `sklearn`, `matplotlib`, `numpy`)
 3. Open `Cancer_Predictions.ipynb` in Jupyter and run all cells
 
 ## 📬 Contact
-Created by [Your Name] – feel free to reach out!
+Created by Olivia Boe – feel free to reach out!
